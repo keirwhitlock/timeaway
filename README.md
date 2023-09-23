@@ -1,4 +1,4 @@
-# timeaway
+# timeaway v1
 
 [![CI/CD](https://github.com/rorycl/timeaway/actions/workflows/pushtag.yml/badge.svg)](https://github.com/rorycl/timeaway/actions/workflows/pushtag.yml)
 
